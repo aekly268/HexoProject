@@ -1,23 +1,28 @@
 ---
-title: Cocos2dX
-subtitle: games made with Cocos2dx
+title: Cocos2d-x
+subtitle: games made with Cocos2d-x
 date: 2016-02-21 17:03:49
-cover_index: "/images/cocos2dx_cover.png"
+cover_index: "/images/Cocos2d/cocos2dx_cover.png"
 tags:
 - game
 - program
 ---
 ## 前言
-上課時利用[cocos2d](http://www.cocos2d-x.org/)製作的三個作品，都是老師先給大框架，再由我們去實作程式
+上課時利用[Cocos2d-x](http://www.cocos2d-x.org/)製作的三個作品，都是老師先給大框架，再由我們去實作程式
 
-## 豆豆跑酷 - bean run
+## Bean Run - 豆豆跑酷
 一個很陽春的跑酷遊戲，讓我們了解如何使用cocos引擎寫程式
 操作：點擊讓豆豆跳躍，或是按香腸人射香腸、點爆箱子，努力創下高分吧！
+
 **[遊戲連結](https://drive.google.com/open?id=0B3tpmvLYn0upRUJQU1M5SFZoTUE)**
+
+<a href="https://github.com/aekly268/BeanRun"><img src="https://gh-card.dev/repos/aekly268/BeanRun.svg" width="50%"></a>
 {% youtube QaDM6UB901E %}
 
-## 粒子特效系統 - Particle System
+## Particle System - 粒子特效系統
 實作一個粒子特效系統，包含自定義的煙火、各種參數的調整
+
+<a href="https://github.com/aekly268/ParticleSystem"><img src="https://gh-card.dev/repos/aekly268/ParticleSystem.svg" width="50%"></a>
 {% youtube 4WwernXcWdE %}
 
 ## Box 2D
@@ -26,6 +31,8 @@ tags:
 1.利用棍子將球推進最左邊的小洞
 2.按下中間的三角形產生30顆球
 3.讓車子飛到最右邊解鎖繪製鋼體功能
+
+<a href="https://github.com/aekly268/Box2D"><img src="https://gh-card.dev/repos/aekly268/Box2D.svg" width="50%"></a>
 {% youtube TcBCCfA7_XI %}
 
 ## 程式小筆記

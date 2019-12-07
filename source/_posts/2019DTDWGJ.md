@@ -13,7 +13,7 @@ photos:
 
 ---
 ## 前言
-今年[第二場數位系game jam](https://itch.io/jam/2019dtdwintergamejam/entries)來啦，快去看看我們的遊戲吧！
+[今年第二場數位系game jam](https://itch.io/jam/2019dtdwintergamejam/entries)來啦，快去看看我們的遊戲吧！
 這次也是回學校吃吃喝喝，展現學姊的資歷(?)
 
 ## Cheat
@@ -27,7 +27,7 @@ photos:
 這時候我知道了，原來我才是被凱瑞的那個，那時候我的NPC程式碼才剛開始寫了第四行呢...
 到了下午整個遊戲其實雛型已經完成一半了，所以我們這次有很充裕的時間讓人試玩，再做細微的調整。
 
-## 誰是黃蘿蔔 - Who Is Yellow Luobo
+## Who Is Yellow Luobo - 誰是黃蘿蔔
 類型：2D 動作遊戲
 說明：
 某天正午高登吃著火雞肉飯，因為高登下午要將披薩上的鳳梨丟掉，鳳梨們紛紛起義要去把高登做掉，黃蘿蔔發現了鳳梨陰謀，所以他偽裝成鳳梨要下去幹掉起義的鳳梨，幫助高登脫離危險。
@@ -37,7 +37,8 @@ photos:
 player1: Up, Down, Right, player2: I, K, L
 player3: T, G, H, player4: W, S, D
 
-**[遊戲連結](https://peiyunlee.itch.io/who-is-yellow-luobo)**
+{% iframe https://itch.io/embed/513882?linkback=true 50% 167 %}
+<a href="https://github.com/wendy556609/GameJam2"><img src="https://gh-card.dev/repos/wendy556609/GameJam2.svg" width="50%"></a>
 {% youtube 1Jpi49AMsEQ %}
 
 ## 後記

@@ -1,14 +1,14 @@
 ---
-title: 吃蜂蜜
+title: Eat Honey
 subtitle: my first game
 date: 2016-02-28 17:03:48
-cover_index: "/images/eatHoney_cover.PNG"
+cover_index: "/images/EatHoney/eatHoney_cover.PNG"
 tags:
 - game
 - program
 photos:
-- ../images/eatHoney_1.PNG
-- ../images/eatHoney_2.PNG
+- ../images/EatHoney/eatHoney_1.PNG
+- ../images/EatHoney/eatHoney_2.PNG
 ---
 ## 前言
 很久很久以前，大約在冬季，我和同學心血來潮第一次開始做遊戲
@@ -25,7 +25,7 @@ photos:
 這給我很大的打擊，一度快要放棄了，但F.I.R的[讓愛重生](https://youtu.be/F8pLZA0CIj4)讓我振作起來
 在之後的兩個月天天聽著歌努力研究程式到半夜，最後也順利找到其他同學願意幫忙畫美術！
 
-## 吃蜂蜜 - Eat Honey
+## Eat Honey - 吃蜂蜜
 遊戲說明："昆霖熊"想吃蜂蜜，但有蜜蜂死守著。
 為了吸引蜜蜂的注意，"昆霖熊"必須拿到花朵並放置在正確的位置，讓蜜蜂去採花蜜。
 
@@ -34,11 +34,11 @@ photos:
 2. 蜜蜂攻擊範圍是2格，進入範圍內會被追
 3. 若將花朵放置於地上，蜜蜂則會在3格之內優先採花
 
-**[遊戲連結](https://angelcheng.itch.io/eat-honey)**
+{% iframe https://itch.io/embed/226625?linkback=true 50% 167 %}
 {% youtube 0D2GJx4_JBo %}
-
+</br>
 ## 程式小筆記
-**[source code](https://github.com/aekly268/Eat-Honey)**
+<a href="https://github.com/aekly268/EatHoney"><img src="https://gh-card.dev/repos/aekly268/EatHoney.svg" width="50%"></a>
 
 1. 由於[Processing]((https://processing.org/)並不像[Unity](https://unity3d.com/)一樣包山包海，所以可以練就最基本的程式邏輯
 像是遊戲地圖本身是用固定大小的陣列組成的，人物、箱子、牆壁、地板各自給予不同的值，再去寫個別的行為

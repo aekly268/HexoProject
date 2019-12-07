@@ -1,28 +1,30 @@
 ---
-title: 城市猿
+title: CT APE
 subtitle: 2017 akatsuki game jam
 date: 2017-11-20 17:03:48
-cover_index: "/images/ctApe_cover.PNG"
+cover_index: "/images/2017AKAGJ/ctApe_cover.PNG"
 tags:
 - game
 - program
 photos:
-- ../images/ctApe_1.PNG
-- ../images/ctApe_2.PNG
+- ../images/2017AKAGJ/ctApe_1.PNG
+- ../images/2017AKAGJ/ctApe_2.PNG
 ---
 ## 前言
 和同學一起去參加[Akatsuki Game Jam](https://contest.bhuntr.com/tw/akatsuki_hcktn2017)，增加作品順便累積實力！
 
-## 城市猿 - ct ape
+## CT APE - 城市猿
 這次的主題是"fusion"，我們融合魔王和挑戰者的概念，讓每隊的玩家同時能挑戰也擔任別隊的魔王，由自己設計陷阱干擾對方！
-
 說明：城市猿要和身上的蝨子搏鬥，因此展開了攻防戰，在贏得勝利的同時製造混亂擾亂敵人吧！
 操作：2人負責操控手指擺出指定手勢，即可開槍擊暈小蝨子；2人負責操控蝨子拖拉拼圖成正確圖案，即可用刺青槍射歪手指
-**[遊戲連結](https://angelcheng.itch.io/ctape)**
-{% youtube MfDioFjCEgc %}
 
+{% iframe https://itch.io/embed/206390?linkback=true 50% 167 %}
+{% youtube MfDioFjCEgc %}
+</br>
 ## 程式小筆記
-**[source code](https://github.com/aekly268/ct-Ape)**
+<a href="https://github.com/aekly268/CityApe"><img src="https://gh-card.dev/repos/aekly268/CityApe.svg" width="50%"></a>
+
+
 
 這次的Game Jam我負責多人操控和拼圖的部分。
 由於之前做過[吃蜂蜜](/EatHoney)的影響，利用陣列來判斷拼圖是否能夠被移動的刻板印象一直存在在腦中，
@@ -30,7 +32,7 @@ photos:
 
 原本的做法：由玩家去控制拼圖移動，再由拼圖本身去判斷碰撞的物體
 BUG出現：上一偵的位置根據電腦效能是不一定的，拼圖位置可能設置為碰撞到之後的位置，而拼圖又被設成不能動
-{% codeblock lang:cs box https://github.com/aekly268/ct-Ape/blob/master/Assets/Scripts/Box.cs box.cs %}
+{% codeblock lang:cs box https://github.com/aekly268/CityApe/blob/master/Assets/Scripts/Box.cs box.cs %}
 private void OnTriggerEnter2D(Collider2D collision)
 {
     if(collision.tag == "box")//如果拼圖撞到其他拼圖
@@ -51,7 +53,8 @@ private void OnTriggerEnter2D(Collider2D collision)
 最後的做法：
 1. 判斷從玩家發出的射線和玩家想互動的拼圖是不是同一片，是則可以互動，否則反之
 2. 當玩家放開互動鍵時，直接將所有拼圖設置成物理靜態，則可以排除原本的BUG
-{% codeblock lang:cs player https://github.com/aekly268/ct-Ape/blob/master/Assets/Scripts/Player.cs player.cs %}
+
+{% codeblock lang:cs player https://github.com/aekly268/CityApe/blob/master/Assets/Scripts/Player.cs player.cs %}
 void raycastBox()
 {
     RaycastHit2D o = Physics2D.Linecast(transform.position, transform.position + faceTo, test);//朝人物面向發出射線

@@ -1,20 +1,21 @@
 ---
-title: 愛的方吉
+title: Love Funghi
 subtitle: cute wireless car
 date: 2016-02-21 17:03:49
-cover_index: "/images/arduino_1.jpg"
+cover_index: "/images/funghi.jpg"
 tags:
 - program
 ---
 ## 前言
 不敢和心愛的人告白嗎？那就讓愛的方吉幫你完成願望吧！
 
-## 愛的方吉
+## Love Funghi - 愛的方吉
 愛的方吉是一台WIFI遙控車，當你看到心上人卻不敢告白的時候，就出動她吧！
 可愛的外型和美妙的音樂絕對能夠幫你打動她的心，但是要注意：
 1. 要準確的移動方吉到指定位置
 2. 準確地按下告白按鈕，讓方吉幫你告白
 
+<a href="https://github.com/aekly268/LoveFunghi"><img src="https://gh-card.dev/repos/aekly268/LoveFunghi.svg" width="50%"></a>
 {% youtube qIkyARkZqcU %}
 <br>
 ## 程式小筆記

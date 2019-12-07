@@ -1,21 +1,21 @@
 ---
-title: 食物也瘋狂
+title: Crazy Food
 subtitle: junior project
 date: 2017-05-23 17:03:48
-cover_index: "/images/crazyFood_cover.JPG"
+cover_index: "/images/CrazyFood/crazyFood_cover.JPG"
 tags:
 - game
 - program
 photos:
-- ../images/crazyFood_1.png
-- ../images/crazyFood_2.png
-- ../images/crazyFood_3.png
-- ../images/crazyFood_4.png
+- ../images/CrazyFood/crazyFood_1.png
+- ../images/CrazyFood/crazyFood_2.png
+- ../images/CrazyFood/crazyFood_3.png
+- ../images/CrazyFood/crazyFood_4.png
 ---
 
-## 食物也瘋狂 - Crazy Food
+## Crazy Food - 食物也瘋狂
 遊戲背景：為了打倒偷走食物的小偷，召喚師愛麗絲展開了他的生存冒險！
-遊戲類型：2.5D 冒險生存遊戲
+遊戲類型：3D 冒險生存遊戲
 操作：
 1. 在地圖中探索
 2. 採集食物
@@ -50,10 +50,10 @@ b. 食譜 - 可以製作藥水或召喚物，必須透過任務或劇情才能�
 ## 開發中止
 主要是因為找不到美術能夠在短時間大量繪製所需要的圖片，遊戲性又因為美術進度落後而一改再改...
 場景裡面所看到的3D模型全都是利用現成的素材，只有人物、怪物、召喚物是由團隊繪製
-一年的心血要放棄很不容易，但團隊夥伴各有想法，所以還是解散了😨😨
+一年的心血要放棄很不容易，但團隊夥伴各有想法，所以還是解散了😨
 
 ## 程式小筆記
-**[source code](https://github.com/aekly268/CrazyFood)**
+<a href="https://github.com/aekly268/CrazyFood"><img src="https://gh-card.dev/repos/aekly268/CrazyFood.svg" width="50%"></a>
 
 1. 怪物AI
 一開始嘗試自己實作怪物AI，在還沒套用[號召]()技能之前都還可以運作

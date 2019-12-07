@@ -1,5 +1,5 @@
 ---
-title: 藍黑白金裙
+title: Skirt
 subtitle: what's that color
 date: 2018-09-20 17:03:48
 cover_index: "/images/skirt_cover.png"
@@ -18,14 +18,15 @@ tags:
 還有報導說跟眼睛的[錐狀細胞、桿狀細胞](https://zh.wikipedia.org/wiki/视杆细胞)有關，甚至說跟起床時間有關(?
 總之，你的眼睛很容易被騙!!
 
-## 藍黑白金裙 - Skirt
+## Skirt - 藍黑白金裙
 
 做了一個可以玩弄眼睛的小東西，試試看在不同顏色背景下撫弄、拖動色塊，看到什麼色喔
 把中間色塊對齊第四個背景的兩種色塊，就兩種顏色都看的到了!
 (建議不要玩彩色的 眼睛會好痛)
-**[遊戲連結](https://angelcheng.itch.io/skirt)**
-{% youtube SY6-i6RIqEE %}
 
+{% iframe https://itch.io/embed/307291?linkback=true 50% 167 %}
+{% youtube SY6-i6RIqEE %}
+</br>
 ## 後記
 原汁原味地把以前網站的奇聞軼事搬過來，回頭來看文章的風格也太智障，好尷尬...
 第一段在模擬兩個人講話，有沒有栩栩如生呢😂😂

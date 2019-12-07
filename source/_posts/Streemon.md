@@ -1,20 +1,20 @@
 ---
-title: 怪獸流浪兒
-subtitle: 新一代設計展
+title: Streemon
+subtitle: fianl project
 date: 2018-05-28 17:03:48
-cover_index: "/images/streemon_cover.png"
+cover_index: "/images/Streemon/streemon_cover.png"
 tags:
 - game
 - program
 photos:
-- ../images/streemon_1.png
-- ../images/streemon_2.png
-- ../images/streemon_3.png
+- ../images/Streemon/streemon_1.png
+- ../images/Streemon/streemon_2.png
+- ../images/Streemon/streemon_3.png
 ---
 ## 前言
 一整年努力的畢業專題，在新一代設計展正式展出囉！
 
-## 怪獸流浪兒 - Streemon
+## Streemon - 怪獸流浪兒
 類型：2D AR解謎遊戲
 說明：下大雨了，出門遠行的阿尼想找間屋子躲雨，屋主比利不但好心地收留他，還提供了他晚餐。但是，阿尼吃著吃著卻覺得昏昏欲睡，清醒後的阿尼發現自己在一間陌生的房間裡，而房門卻壞了無法出去，不知該如何是好的阿尼，想要找到屋主比利，告訴他房門壞了，但在這之前他得先想辦法離開...。
 手機平台的解謎遊戲。玩家將扮演怪獸阿尼，來到偏遠的屋子躲雨，卻在屋子裡發現了許多未知的種族，而他們身居於此的秘密。
@@ -42,7 +42,8 @@ photos:
 還有幸認識到許多獨立遊戲大神，讓小人嚇得說不出話XD
 
 ## 程式小筆記
-**[source code](https://github.com/aekly268/Streemon)**
+
+<a href="https://github.com/aekly268/Streemon"><img src="https://gh-card.dev/repos/aekly268/Streemon.svg" width="50%"></a>
 
 解謎遊戲最重要的就是謎題和劇本，主要的功能如下：
 1. 對話系統

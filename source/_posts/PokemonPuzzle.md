@@ -1,28 +1,29 @@
 ---
-title: 寶可夢拼圖
-subtitle: Pokemon Puzzle
+title: Pokemon Puzzle
+subtitle: Merry Christmas
 date: 2018-12-24 17:03:48
-cover_index: "/images/pokemonPuzzle_cover.PNG"
+cover_index: "/images/PokemonPuzzle/pokemonPuzzle_cover.PNG"
 tags:
 - game
 - program
 photos:
-- ../images/pokemonPuzzle_1.PNG
-- ../images/pokemonPuzzle_2.PNG
-- ../images/pokemonPuzzle_3.PNG
+- ../images/PokemonPuzzle/pokemonPuzzle_1.PNG
+- ../images/PokemonPuzzle/pokemonPuzzle_2.PNG
+- ../images/PokemonPuzzle/pokemonPuzzle_3.PNG
 ---
 ## 前言
 好久沒有更新了，來做個遊戲慶祝聖誕節暨生存證明！
 
-## 寶可夢拼圖 - Pokemon Puzzle
+## Pokemon Puzzle - 寶可夢拼圖
 類型：2.5D 拼圖遊戲
 說明：寶可夢的臉消失了，幫忙他們擺回正確的位置
 操作：
 W或上 向上移動
 D或右 向右移動
-**[遊戲連結](https://angelcheng.itch.io/pokemonpuzzle)**
-{% youtube 8xSKJnpA5A4 %}
 
+{% iframe https://itch.io/embed/348924?linkback=true 50% 167 %}
+{% youtube 8xSKJnpA5A4 %}
+</br>
 ## 上班時光飛逝
 從7月畢業後，不知不覺過了半年了！
 從剛進公司每天都睡倒在床上，到現在...還是累倒在床上😴
@@ -40,7 +41,8 @@ D或右 向右移動
 好多東西都忘光光了，完蛋...以後要常常打開才不會忘記
 
 ## 遊戲小筆記
-**[source code](https://github.com/aekly268/PokemonPuzzle)**
+<a href="https://github.com/aekly268/PokemonPuzzle"><img src="https://gh-card.dev/repos/aekly268/PokemonPuzzle.svg"></a>
+
 1. Fungus
 這次的遊戲一部分是想代替中秋節手寫卡片的痛苦
 寫字又醜手還很酸，電腦真是個超級發明！
