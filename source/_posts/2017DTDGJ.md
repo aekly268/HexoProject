@@ -23,7 +23,7 @@ photos:
 說明：奇怪動物累了，躺下比賽接蛋蛋，接最多的是贏家
 操作：左右移動，上跳，下躺下
 
-{% iframe https://itch.io/embed/161766?linkback=true 50% 167 %}
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/161766?linkback=true" height="167px"> </iframe>
 {% youtube Vfo_v2Li5Ns %}
 </br>
 ## 後記

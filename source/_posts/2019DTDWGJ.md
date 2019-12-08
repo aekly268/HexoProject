@@ -37,8 +37,8 @@ photos:
 player1: Up, Down, Right, player2: I, K, L
 player3: T, G, H, player4: W, S, D
 
-{% iframe https://itch.io/embed/513882?linkback=true 50% 167 %}
-<a href="https://github.com/wendy556609/GameJam2"><img src="https://gh-card.dev/repos/wendy556609/GameJam2.svg" width="50%"></a>
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/513882?linkback=true" height="167px"> </iframe>
+<a href="https://github.com/wendy556609/GameJam2"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/wendy556609/GameJam2.svg"></a>
 {% youtube 1Jpi49AMsEQ %}
 
 ## 後記

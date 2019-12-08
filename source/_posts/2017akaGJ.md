@@ -18,11 +18,11 @@ photos:
 說明：城市猿要和身上的蝨子搏鬥，因此展開了攻防戰，在贏得勝利的同時製造混亂擾亂敵人吧！
 操作：2人負責操控手指擺出指定手勢，即可開槍擊暈小蝨子；2人負責操控蝨子拖拉拼圖成正確圖案，即可用刺青槍射歪手指
 
-{% iframe https://itch.io/embed/206390?linkback=true 50% 167 %}
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/206390?linkback=true" height="167px"> </iframe>
 {% youtube MfDioFjCEgc %}
 </br>
 ## 程式小筆記
-<a href="https://github.com/aekly268/CityApe"><img src="https://gh-card.dev/repos/aekly268/CityApe.svg" width="50%"></a>
+<a href="https://github.com/aekly268/CityApe"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/CityApe.svg"></a>
 
 
 
