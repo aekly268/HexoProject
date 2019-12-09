@@ -24,7 +24,7 @@ tags:
 把中間色塊對齊第四個背景的兩種色塊，就兩種顏色都看的到了!
 (建議不要玩彩色的 眼睛會好痛)
 
-{% iframe https://itch.io/embed/307291?linkback=true 50% 167 %}
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/307291?linkback=true" height="167px"> </iframe>
 {% youtube SY6-i6RIqEE %}
 </br>
 ## 後記

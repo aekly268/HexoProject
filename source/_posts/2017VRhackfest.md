@@ -22,7 +22,7 @@ photos:
 
 **[APK下載連結](http://bit.ly/2JrXxKS)**
 
-<a href="https://github.com/aekly268/AnimalEscape"><img src="https://gh-card.dev/repos/aekly268/AnimalEscape.svg" width="50%"></a>
+<a href="https://github.com/aekly268/AnimalEscape"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/AnimalEscape.svg"></a>
 {% youtube k0d6RhJJ8RM %}
 
 ## 最佳視覺設計獎

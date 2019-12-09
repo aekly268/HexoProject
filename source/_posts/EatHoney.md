@@ -34,11 +34,11 @@ photos:
 2. 蜜蜂攻擊範圍是2格，進入範圍內會被追
 3. 若將花朵放置於地上，蜜蜂則會在3格之內優先採花
 
-{% iframe https://itch.io/embed/226625?linkback=true 50% 167 %}
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/226625?linkback=true" height="167px"> </iframe>
 {% youtube 0D2GJx4_JBo %}
 </br>
 ## 程式小筆記
-<a href="https://github.com/aekly268/EatHoney"><img src="https://gh-card.dev/repos/aekly268/EatHoney.svg" width="50%"></a>
+<a href="https://github.com/aekly268/EatHoney"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/EatHoney.svg"></a>
 
 1. 由於[Processing]((https://processing.org/)並不像[Unity](https://unity3d.com/)一樣包山包海，所以可以練就最基本的程式邏輯
 像是遊戲地圖本身是用固定大小的陣列組成的，人物、箱子、牆壁、地板各自給予不同的值，再去寫個別的行為

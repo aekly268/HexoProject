@@ -22,12 +22,12 @@ tags:
 1. 滾輪切換馬賽克類型(馬賽克、海苔馬賽克、無)
 2. 長按左鍵進行消音
 
-{% iframe https://itch.io/embed/233303?linkback=true 50% 167 %}
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/233303?linkback=true" height="167px"> </iframe>
 (內有不雅字眼，請斟酌使用😳😳)
 {% youtube bipBypQweNg %}
 
 ## 程式小筆記
-<a href="https://github.com/aekly268/Mosiac"><img src="https://gh-card.dev/repos/aekly268/Mosiac.svg" width="50%"></a>
+<a href="https://github.com/aekly268/Mosiac"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/Mosiac.svg"></a>
 
 這次比較特別的效果是重播的功能，主要是參考這篇倒帶效果：
 {% youtube eqlHpPzS22U %}

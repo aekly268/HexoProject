@@ -22,8 +22,8 @@ photos:
 1. WASD與滑鼠控制少女
 2. Space飛行
 
-{% iframe https://itch.io/embed/461234?linkback=true 50% 167 %}
-<a href="https://github.com/aekly268/WitchGo"><img src="https://gh-card.dev/repos/aekly268/WitchGo.svg" width="50%"></a>
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/461234?linkback=true" height="167px"> </iframe>
+<a href="https://github.com/aekly268/WitchGo"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/WitchGo.svg"></a>
 {% youtube i7sc8EVkSu0 %}
 
 ## 小意外

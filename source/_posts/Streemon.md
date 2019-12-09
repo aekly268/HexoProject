@@ -43,7 +43,7 @@ photos:
 
 ## 程式小筆記
 
-<a href="https://github.com/aekly268/Streemon"><img src="https://gh-card.dev/repos/aekly268/Streemon.svg" width="50%"></a>
+<a href="https://github.com/aekly268/Streemon"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/Streemon.svg"></a>
 
 解謎遊戲最重要的就是謎題和劇本，主要的功能如下：
 1. 對話系統

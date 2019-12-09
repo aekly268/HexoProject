@@ -21,8 +21,8 @@ photos:
 老鼠莉莉想要吃起司，但必須經過滿是貓咪的長廊。當貓咪有醒過來的跡象，莉莉必須偽裝成石頭，否則...
 遊戲玩法：長按滑鼠左鍵控制老鼠前進，小心貓咪！
 
-{% iframe https://itch.io/embed/221655?linkback=true 50% 167 %}
-<a href="https://github.com/aekly268/LilyFindCheese"><img src="https://gh-card.dev/repos/aekly268/LilyFindCheese.svg" width="50%"></a>
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/221655?linkback=true" height="167px"> </iframe>
+<a href="https://github.com/aekly268/LilyFindCheese"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/LilyFindCheese.svg"></a>
 {% youtube NTO8Pds0dcU %}
 
 ## 0214
@@ -34,7 +34,7 @@ FFF團會把主角打飛，試著讓主角遭受天譴，創下最高紀錄吧�
 2.小心女朋友、朋友、路障，減速到一定程度遊戲結束
 PS. 可以去商城購買無用造型XD
 
-{% iframe https://itch.io/embed/224113?linkback=true 50% 167 %}
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/224113?linkback=true" height="167px"> </iframe>
 {% youtube 0FTanbETu_Y %}
 </br>
 ## 後記

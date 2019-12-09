@@ -21,7 +21,7 @@ photos:
 W或上 向上移動
 D或右 向右移動
 
-{% iframe https://itch.io/embed/348924?linkback=true 50% 167 %}
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/348924?linkback=true" height="167px"> </iframe>
 {% youtube 8xSKJnpA5A4 %}
 </br>
 ## 上班時光飛逝
@@ -41,7 +41,7 @@ D或右 向右移動
 好多東西都忘光光了，完蛋...以後要常常打開才不會忘記
 
 ## 遊戲小筆記
-<a href="https://github.com/aekly268/PokemonPuzzle"><img src="https://gh-card.dev/repos/aekly268/PokemonPuzzle.svg"></a>
+<a href="https://github.com/aekly268/PokemonPuzzle"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/PokemonPuzzle.svg"></a>
 
 1. Fungus
 這次的遊戲一部分是想代替中秋節手寫卡片的痛苦

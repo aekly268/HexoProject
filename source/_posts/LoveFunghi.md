@@ -15,7 +15,7 @@ tags:
 1. 要準確的移動方吉到指定位置
 2. 準確地按下告白按鈕，讓方吉幫你告白
 
-<a href="https://github.com/aekly268/LoveFunghi"><img src="https://gh-card.dev/repos/aekly268/LoveFunghi.svg" width="50%"></a>
+<a href="https://github.com/aekly268/LoveFunghi"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/LoveFunghi.svg"></a>
 {% youtube qIkyARkZqcU %}
 <br>
 ## 程式小筆記

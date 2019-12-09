@@ -26,8 +26,9 @@ photos:
 說明：模型插入南瓜的部分會挖洞，做出你的南瓜燈吧！
 操作：方向鍵控制、空白鍵確認、B返回、R重來、ESC結束
 
-{% iframe https://itch.io/embed/508202?linkback=true 50% 167 %}
-<a href="https://github.com/aekly268/Halloween2019"><img src="https://gh-card.dev/repos/aekly268/Halloween2019.svg" width="50%"></a>
+
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/508202?linkback=true" height="167px"> </iframe>
+<a href="https://github.com/aekly268/Halloween2019"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/Halloween2019.svg"></a>
 {% youtube BC-XT2802Tw %}
 
 ## 後記

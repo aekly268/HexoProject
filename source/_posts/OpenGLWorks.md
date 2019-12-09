@@ -25,13 +25,13 @@ tags:
 ## Room - 一個房間
 實作一個很醜的房間，有一個會旋轉的主燈、三盞環境光、四個OBJ模型
 
-<a href="https://github.com/aekly268/Room"><img src="https://gh-card.dev/repos/aekly268/Room.svg" width="50%"></a>
+<a href="https://github.com/aekly268/Room"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/Room.svg"></a>
 {% youtube eU8p02WpyNk %}
 
 ## Rooooom - 五個房間
 這個作品主要是練習各種貼圖、模型的使用，硬要放在五個房間裡(還沒有門XD
 
-<a href="https://github.com/aekly268/FiveRoom"><img src="https://gh-card.dev/repos/aekly268/FiveRoom.svg" width="50%"></a>
+<a href="https://github.com/aekly268/FiveRoom"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/FiveRoom.svg"></a>
 {% youtube NipZ8obWtD8 %}
 
 ## 程式小筆記

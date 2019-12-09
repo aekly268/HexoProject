@@ -20,7 +20,8 @@ photos:
 1. WASD移動，空白鍵射擊
 2. 上下左右移動，數字0射擊
 
-{% iframe https://itch.io/embed/377112?linkback=true 50% 167 %}
+
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/377112?linkback=true" height="167px"> </iframe>
 {% youtube LtqaaRwaYls %}
 </br>
 ## 心得

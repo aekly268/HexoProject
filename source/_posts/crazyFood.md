@@ -53,7 +53,7 @@ b. 食譜 - 可以製作藥水或召喚物，必須透過任務或劇情才能�
 一年的心血要放棄很不容易，但團隊夥伴各有想法，所以還是解散了😨
 
 ## 程式小筆記
-<a href="https://github.com/aekly268/CrazyFood"><img src="https://gh-card.dev/repos/aekly268/CrazyFood.svg" width="50%"></a>
+<a href="https://github.com/aekly268/CrazyFood"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/CrazyFood.svg"></a>
 
 1. 怪物AI
 一開始嘗試自己實作怪物AI，在還沒套用[號召]()技能之前都還可以運作

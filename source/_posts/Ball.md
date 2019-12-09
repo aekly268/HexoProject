@@ -19,7 +19,7 @@ photos:
 {% youtube -aHgjkvc8jg %}
 
 ## 程式小筆記
-<a href="https://github.com/aekly268/TheBall"><img src="https://gh-card.dev/repos/aekly268/TheBall.svg" width="50%"></a>
+<a href="https://github.com/aekly268/TheBall"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/TheBall.svg"></a>
 
 1. 遊戲邏輯很簡單，在每行隨機產生點點，然後再透過計時器去更新位置跟判斷是否輸了
 沒錯，這是一個一定會輸的遊戲

@@ -36,9 +36,9 @@ photos:
 最後當然是沒有得獎，不過學到很多有趣的東西，之後應該會再找個時間把遊戲完成，敬請期待！
 
 ## 雜工小筆記
-<a href="https://github.com/dyronzha/VR_ForceUpload"><img src="https://gh-card.dev/repos/dyronzha/VR_ForceUpload.svg" width="50%"></a>
+<a href="https://github.com/dyronzha/VR_ForceUpload"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/dyronzha/VR_ForceUpload.svg"></a>
 
-影片記錄一下這次做的東東，還要再加油啊！
+影片記錄一下這次做的東西，還要再加油啊！
 {% youtube rT134FEP76A %}
 {% youtube DzRloYt91v4 %}
 {% youtube edYUSkFsH6s %}

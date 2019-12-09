@@ -16,13 +16,13 @@ tags:
 
 **[遊戲連結](https://drive.google.com/open?id=0B3tpmvLYn0upRUJQU1M5SFZoTUE)**
 
-<a href="https://github.com/aekly268/BeanRun"><img src="https://gh-card.dev/repos/aekly268/BeanRun.svg" width="50%"></a>
+<a href="https://github.com/aekly268/BeanRun"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/BeanRun.svg"></a>
 {% youtube QaDM6UB901E %}
 
 ## Particle System - 粒子特效系統
 實作一個粒子特效系統，包含自定義的煙火、各種參數的調整
 
-<a href="https://github.com/aekly268/ParticleSystem"><img src="https://gh-card.dev/repos/aekly268/ParticleSystem.svg" width="50%"></a>
+<a href="https://github.com/aekly268/ParticleSystem"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/ParticleSystem.svg"></a>
 {% youtube 4WwernXcWdE %}
 
 ## Box 2D
@@ -32,7 +32,7 @@ tags:
 2.按下中間的三角形產生30顆球
 3.讓車子飛到最右邊解鎖繪製鋼體功能
 
-<a href="https://github.com/aekly268/Box2D"><img src="https://gh-card.dev/repos/aekly268/Box2D.svg" width="50%"></a>
+<a href="https://github.com/aekly268/Box2D"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/Box2D.svg"></a>
 {% youtube TcBCCfA7_XI %}
 
 ## 程式小筆記

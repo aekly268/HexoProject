@@ -16,16 +16,17 @@ photos:
 雙人釣魚遊戲，參考了[估摸釣魚](https://youtu.be/lVYxXGuV0NU)。
 遊戲除了普通的釣魚之外，還可以利用道具去干擾對方釣魚，讓我們一起為愛而釣吧！
 
-{% iframe https://itch.io/embed/223697?linkback=true 50% 167 %}
-<a href="https://github.com/aekly268/NoFishNoLove"><img src="https://gh-card.dev/repos/aekly268/NoFishNoLove.svg" width="50%"></a>
+
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/223697?linkback=true" height="167px"> </iframe>
+<a href="https://github.com/aekly268/NoFishNoLove"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/NoFishNoLove.svg"></a>
 {% youtube XiI2AJziUyE %}
 </br>
 ## Taiwan Snack Battle - 台灣小吃爭霸
 以台灣為主題，設計出的台灣小吃爭霸戰
 你們很餓，所以要一直去吃好吃的小吃填飽肚子，或是去衝撞對手讓她掉進深淵，為了活下去而戰吧！
 
-{% iframe https://itch.io/embed/223661?linkback=true 50% 167 %}
-<a href="https://github.com/aekly268/TaiwanSnackBattle"><img src="https://gh-card.dev/repos/aekly268/TaiwanSnackBattle.svg" width="50%"></a>
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/223661?linkback=true" height="167px"> </iframe>
+<a href="https://github.com/aekly268/TaiwanSnackBattle"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/TaiwanSnackBattle.svg"></a>
 {% youtube D4PiAz0hnVo %}
 </br>
 ## 後記

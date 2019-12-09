@@ -20,8 +20,8 @@ photos:
 說明：只利用一台調理機，仿造出被要求的料理，唯一的線索就是一張照片，在各方壓力之下！你能完成到何種程度呢？
 操作：挑選並拖動送出來食材，進行加工
 
-{% iframe https://itch.io/embed/152091?linkback=true 50% 167 %}
-<a href="https://github.com/aekly268/DarkDarkJamer"><img src="https://gh-card.dev/repos/aekly268/DarkDarkJamer.svg" width="50%"></a>
+<iframe class="itch_and_ghcard" src="https://itch.io/embed/152091?linkback=true" height="167px"> </iframe>
+<a href="https://github.com/aekly268/DarkDarkJamer"><img class="itch_and_ghcard" src="https://gh-card.dev/repos/aekly268/DarkDarkJamer.svg"></a>
 {% youtube G5pDIlAq8b8 %}
 </br>
 ## 後記
